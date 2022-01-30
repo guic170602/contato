@@ -1,0 +1,11 @@
+::root{
+    font-size: 8px;
+    --cor-primaria: #008b56;
+    --cor-secundaria: #8a8a8e; 
+}
+
+body, section, div, h1, h2, h3, h4, h5, h6, form, input{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
