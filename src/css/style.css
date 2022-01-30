@@ -1,9 +1,21 @@
+body{
+    
+}
+
+main{
+    height: 100%;
+    display: flex;
+}
+
 .contato{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #145689;
+    height: 100%;
 }
+
+
 .form{
     background-color: aquamarine;
 }
